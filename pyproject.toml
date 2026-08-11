@@ -1,0 +1,13 @@
+[project]
+name = "nanogpt-the-notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.2",
+    "nodejs>=0.1.1",
+    "numpy>=2.5.1",
+    "torch>=2.13.0",
+]
